@@ -3,7 +3,7 @@
 
 ## 📊 E-commerce Data Analysis Project
 
-A complete data analysis project built in **Python**, focused on extracting insights from a large-scale e-commerce dataset containing **500 million+ records**. The goal of this project is to explore customer behavior, sales trends, product performance, and provide a foundation for business intelligence.
+A complete data analysis project built in **Python**, focused on extracting insights from a large-scale e-commerce dataset containing **500 million records**. The goal of this project is to explore customer behavior, sales trends, product performance, and provide a foundation for business intelligence.
 
 ---
 
@@ -41,7 +41,7 @@ A complete data analysis project built in **Python**, focused on extracting insi
 
 ---
 
-### 📊 __Sample__ Insights Extracted
+### 📊 **Sample** Insights Extracted
 
 * 🥇 Most sold products by quantity
 * 💰 Highest revenue-generating products
@@ -83,7 +83,7 @@ A complete data analysis project built in **Python**, focused on extracting insi
 ### 🙋‍♂️ Author
 
 **Abdelrahman Saeed**
-Freelance software developer & data analyst
+Freelance software developer & AI engineer
 📫 LinkedIn : https://www.linkedin.com/in/abdelrahman-saeed-b74587317/ | Email : bsyd654@gmail.com
 
 ---
