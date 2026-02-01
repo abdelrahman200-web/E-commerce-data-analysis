@@ -23,14 +23,11 @@ A complete data analysis project built in **Python**, focused on extracting insi
 
 ### 🛠 Tools & Technologies
 
-```html
-<span class="px-2 py-1 bg-yellow-100 dark:bg-yellow-900 text-yellow-800 dark:text-yellow-200 text-xs rounded">Python</span>
-<span class="px-2 py-1 bg-green-100 dark:bg-green-900 text-green-800 dark:text-green-200 text-xs rounded">Pandas</span>
-<span class="px-2 py-1 bg-red-100 dark:bg-red-900 text-red-800 dark:text-red-200 text-xs rounded">Matplotlib</span>
-<span class="px-2 py-1 bg-purple-100 dark:bg-purple-900 text-purple-800 dark:text-purple-200 text-xs rounded">Jupyter Notebook</span>
-<span class="px-2 py-1 bg-indigo-100 dark:bg-indigo-900 text-indigo-800 dark:text-indigo-200 text-xs rounded">Plotly</span>
-```
-
++ Python
++ Pandas
++ Matplotlib
++ Jupyter Notebook
++ Plotly
 ---
 
 ### 📁 Project Structure
@@ -44,7 +41,7 @@ A complete data analysis project built in **Python**, focused on extracting insi
 
 ---
 
-### 📊 Sample Insights Extracted
+### 📊 __Sample__ Insights Extracted
 
 * 🥇 Most sold products by quantity
 * 💰 Highest revenue-generating products
