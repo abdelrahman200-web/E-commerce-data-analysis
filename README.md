@@ -1,4 +1,3 @@
-Absolutely! Here’s a complete `README.md` file tailored to your **E-commerce Data Analysis project** using Python and Jupyter Notebook.
 
 ---
 
